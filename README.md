@@ -6,11 +6,11 @@
   <br/>
   </h1>
 
-I'm a passionate Full-Stack Developer with a strong emphasis on Front-End technologies. 
+I'm a passionate student, learning about full stack development. 
 Crafting elegant and efficient solutions is my passion, and I'm always eager to expand my knowledge and share it with others.
-Over my professional experiences, I've found a love for SvelteKit, a front-end framework that captivates me with its simplicity and incredible ability to overcome the limitations of React and Next.js. I believe in the power of clean and intuitive code to deliver exceptional user experiences, and SvelteKit perfectly aligns with this philosophy.
+Over my professional experiences, I've found a love for SvelteKit, a front-end framework that captivates me with its simplicity and powerful set of tools. I believe in the power of clean and intuitive code to deliver exceptional user experiences, and SvelteKit perfectly aligns with this philosophy.
 
-Let me give you a glimpse of my diverse skill set:
+Let me give you a glimpse of my current skill set:
 
 * **Languages |** JavaScript, TypeScript, Python, HTML, CSS, Tailwind CSS
 * **Front-End |** Svelte, SvelteKit
