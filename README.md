@@ -12,24 +12,19 @@ Over my professional experiences, I've found a love for SvelteKit, a front-end f
 
 Let me give you a glimpse of my diverse skill set:
 
-* **Languages |** JavaScript, TypeScript, Python, SQL, HTML, CSS, Tailwind CSS
-* **Front-End |** Node.js, React, Svelte, SvelteKit, Bootstrap, Flowbite, M3 (Material UI), Shadow & Virtual DOM manipulation
-* **Back-End |** FastAPI, Flask, Django, OpenSSL, MongoDB, FireBase, UserBase, Supabase, PostgreSQL, RabbitMQ, WebSockets, TOZ 
-* **Testing/Deployment |** Selenium, Insomnia, Beekeeper Studio, DataDog SLI/SLOs, AWS S3, Heroku, Render, Vercel, and Docker
-* **Tools |** Git, Jira, Dev tools, VS Code, Insomnia, Agile workflow, API integration, Object Oriented Programming, Domain Driven Design
+* **Languages |** JavaScript, TypeScript, Python, HTML, CSS, Tailwind CSS
+* **Front-End |** Svelte, SvelteKit
+* **Back-End |** FastAPI, MongoDB
+* **Tools |** Git, VS Code
 
 <hr/>
 
 
 - 🔭 Working on a mobile app that integrates AI models to assist outdoor enthusiasts in finding local resources, offering QOL utility features, and notifying them of emergencies.
 
-- 👯 I’m looking to collaborate and partner on anything where my efforts will provide help to those in more unfortunate circumstances
   
-- 🚀 I’m currently learning more about **AI Models, Backend Architecture, and Design Patterns**
+- 🚀 I’m currently learning more about full stack development
 
-- 👨‍💻 Some of my projects are available to view at https://www.leenpham.com OR in this very github.
-
-- 😄 Pronouns: He/Him/His/They/Them/Theirs
   
 <!--
 - ❤️ I stand in solidarity with those who are under-represented within our tech communities:
