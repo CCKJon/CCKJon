@@ -19,11 +19,8 @@ Let me give you a glimpse of my current skill set:
 
 <hr/>
 
-
-- 🔭 Working on a mobile app that integrates AI models to assist outdoor enthusiasts in finding local resources, offering QOL utility features, and notifying them of emergencies.
-
   
-- 🚀 I’m currently learning more about full stack development
+- 🚀 I’m currently learning more about full stack development so expect this page to be updated as I gain more experience!
 
   
 <!--
